@@ -9,8 +9,8 @@ public class EjemploJdbc {
 
     public static void main(String[] args) {
         String url ="jdbc:mysql://localhost:3306/productos?serverTimezone=UTC";
-        String usuario="superadmin";
-        String clave="19851831";
+        String usuario="xxxxx";
+        String clave="xxxxx";
         Connection conexion = null;
         Statement sentencia = null;
         ResultSet resultado = null;
